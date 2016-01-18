@@ -1,16 +1,19 @@
-title:            HPSTR Theme
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
+title:            Jeremy Blog
+description:      一个安安静静写字的地方
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-url:              //mmistakes.github.io/hpstr-jekyll-theme
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url: http://nobodywhu.github.io/blog
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Jeremy Wang
   avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
-  email:          
+  bio:            "一个弱鸡研究生，感觉难以毕业"
+  email:          haohaoranran@126.com
+
   # Social networking links used in footer. Update and remove as you like.
   twitter:        mmistakes
   facebook:       
@@ -21,7 +24,8 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +MichaelRoseDesign
+
+  google_plus:    +王浩然
 
 # Background image to be tiled on all pages
 background:
@@ -33,7 +37,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Harbin
 future:      true
 highlighter: pygments
 markdown:    kramdown
