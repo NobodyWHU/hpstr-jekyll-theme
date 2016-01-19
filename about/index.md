@@ -1,34 +1,32 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About the Jeremy Wang
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2014-12-24
+modified: 2016-1-19
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+### 给我的新朋友
+可以称呼我**Jeremy Wang**，目前是武汉大学硕士生在读二年级，计算机软件与理论。
+好吧，其实专业都是扯谈的，研究方向是主题模型、文本挖掘。
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+其他的一点点information
 
-## What HPSTR brings to the table:
+*  爱好美剧，对国产剧、韩日剧无感
+*  常混迹于 [知乎](https://www.zhihu.com/people/hrwang) 微博，喜好八卦
+*  程序猿搬砖ing，但求早日脱离苦海
+*  人生苦短 我用Python
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+大家可以通过任何社交途径联系我，当然也可以直接email我。
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+*  haohaoranran at 126.com
 
-[^1]: Example: *domain.com/category-name/post-title*
+### 给我的老朋友
+之前的博客搭建在wordpress上，由于服务器到期不再使用，万幸是所有数据都已备份:-)
+旧文章太多，如果全部移植到Jekyll上来估计会花费比较大的精力，所以暂时没这个打算了:-(
+
+早就听人说 [Github Pages](https://pages.github.com/) 可以给我门提供免费的空间，因此花费了一点时间准备了这个blog。
+感谢Jekyll皮肤的提供者**mmistakes**，[皮肤链接在此](https://github.com/mmistakes/hpstr-jekyll-theme)

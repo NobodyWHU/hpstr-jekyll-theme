@@ -1,28 +1,30 @@
-title:            Jeremy Blog
+title:            Jeremy Wang
 description:      一个安安静静写字的地方
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://nobodywhu.github.io/blog
+# url: http://nobodywhu.github.io/blog
+url: http://localhost:4000
 
 # Owner/author information
 owner:
   name:           Jeremy Wang
   avatar:         avatar.jpg
-  bio:            "一个弱鸡研究生，感觉难以毕业"
+  bio:            "WHU在读研究生，研究方向为主题模型，文本挖掘"
   email:          haohaoranran@126.com
 
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
-  facebook:       
-  github:         mmistakes
+  twitter:        Nobody40835148
+  facebook:       haohaoranran
+  github:         nobodywhu
   stackexchange:  
-  linkedin: https://www.instagram.com/jeremywhu/      
-  instagram:        
+  linkedin:  haoran-wang-52a5309b     
+  instagram: jeremywhu    
   flickr:         
-  tumblr:         
+  tumblr:
+  weibo: 1179932577         
   # google plus id, include the '+', eg +mmistakes
 
   google_plus:    +王浩然
