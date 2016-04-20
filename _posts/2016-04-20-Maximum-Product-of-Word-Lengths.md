@@ -14,28 +14,28 @@ image:
 
 题目原文摘抄如下：
 
-> Given a string array words, find the maximum value of length(word[i]) * length(word[j]) where the two words do not share common letters. You may assume that each word will contain only lower case letters. If no such two words exist, return 0.
+Given a string array words, find the maximum value of length(word[i]) * length(word[j]) where the two words do not share common letters. You may assume that each word will contain only lower case letters. If no such two words exist, return 0.
 
-	Example 1:
-	Given ["abcw", "baz", "foo", "bar", "xtfn", "abcdef"]
+Example 1:
+Given ["abcw", "baz", "foo", "bar", "xtfn", "abcdef"]
 
-	Return 16
+Return 16
 
-	The two words can be "abcw", "xtfn".
+The two words can be "abcw", "xtfn".
 
-	Example 2:
-	Given ["a", "ab", "abc", "d", "cd", "bcd", "abcd"]
+Example 2:
+Given ["a", "ab", "abc", "d", "cd", "bcd", "abcd"]
 
-	Return 4
+Return 4
 
-	The two words can be "ab", "cd".
+The two words can be "ab", "cd".
 
-	Example 3:
-	Given ["a", "aa", "aaa", "aaaa"]
+Example 3:
+Given ["a", "aa", "aaa", "aaaa"]
 
-	Return 0
+Return 0
 
-	No such pair of words.
+No such pair of words.
 
 ---
 题目解释：给定一个字符串数组，要求各个单词中出现的字母不能重复，然后求不同字符串长度的最大值
