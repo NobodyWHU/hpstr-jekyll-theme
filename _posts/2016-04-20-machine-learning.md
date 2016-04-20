@@ -3,10 +3,10 @@ layout: post
 title: "[转]How should I prepare for interviews at companies like Google, Facebook, Twitter etc., for machine learning positions?"
 description: "Interview preparation for machine learning"
 tags: [machine learning, quora]
-image:
+<!-- image:
   feature: abstract-6.jpg
   credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/ -->
 ---
 
 先慢慢熟悉Mrakdown写博客的过程，作为新手，先从转载开始。
