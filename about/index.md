@@ -10,13 +10,13 @@ modified: 2016-1-19
 ---
 
 ### 给我的新朋友
-可以称呼我**Jeremy Wang**，目前是武汉大学硕士生在读二年级，计算机软件与理论。
-好吧，其实专业都是扯谈的，研究方向是主题模型、文本挖掘。
+可以称呼我**Jeremy Wang**，目前是武汉大学硕士生在读三年级，计算机软件与理论。
+专业都是扯谈的，研究方向是主题模型、文本挖掘，专注于搜索、广告、推荐。
 
 其他的一点点information
 
 *  爱好美剧，对国产剧、韩日剧无感
-*  常混迹于 [知乎](https://www.zhihu.com/people/hrwang) 微博，喜好八卦
+*  常混迹于 [知乎](https://www.zhihu.com/people/hrwang) [微博](http://weibo.com/1179932577/profile?is_all=1)，喜好八卦
 *  程序猿搬砖ing，但求早日脱离苦海
 *  人生苦短 我用Python
 
