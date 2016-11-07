@@ -68,8 +68,10 @@ figcaption {
 // Blockquotes
 // --------------------------------------------------
 blockquote {
-	font-family: $alt-font;
-	font-style: italic;
+	font-family: -apple-system, "Helvetica Neue", Arial, "PingFang SC", "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+	font-style: normal;
+	background: #f1f1f1;
+	color: #657b83;
 	border-left: 8px solid $border-color;
 	padding-left: 20px;
 	@media #{$medium} {
